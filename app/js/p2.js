@@ -1,7 +1,7 @@
 // object in js
 
-
-let car={
+"not use strick"
+car={
     type:"ac car ",
     color:"red white",
     price :10,
