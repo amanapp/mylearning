@@ -34,7 +34,7 @@ let x =null;
 
 // exception
 
-typeof array & typeof object ==
+// typeof array & typeof object == 
 
 
 
