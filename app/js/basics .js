@@ -36,7 +36,10 @@ let x =null;
 
 // typeof array & typeof object == 
 
-
+let student={
+    first_name:"aman",
+    last_nmae:"dixit"
+}
 
 
 
